@@ -1,0 +1,25 @@
+button {
+    height: 40px;
+    width: 150px;
+    margin: 10px;
+    border-radius: 15px;
+    background-color: rgba(49, 60, 54, 0.33);
+}
+button:hover {
+    background-color: rgba(49, 30, 34, 0.333);
+}
+a{
+    display: flex;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+div > div {
+    padding: 10px;
+    width: 700px;
+}
+body{
+    background-color: rgb(189, 244, 252);
+}

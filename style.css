@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: rgb(189, 244, 252);
+}
+a {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    display: block;
+    flex-wrap: wrap;
+}
+
+button {
+    height: 40px;
+    width: 150px;
+    margin: 10px;
+    border-radius: 15px;
+    background-color: rgba(49, 60, 54, 0.33);
+}
+
+button:hover {
+    background-color: rgba(49, 30, 34, 0.333);
+}
